@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">DuckDuckV1_0</string>
+
+    <string name="setupRes_btn_play">PLAY</string>
+    <string name="setupRes_btn_radio_2X2">2X2</string>
+    <string name="setupRes_btn_radio_3X3">3X3</string>
+    <string name="setupRes_btn_radio_4X4">4X4</string>
+    <string name="setupRes_btn_radio_E">EASY</string>
+    <string name="setupRes_btn_radio_M">MEDIUM</string>
+    <string name="setupRes_btn_radio_H">HARD</string>
+    <string name="setupRes_btn_radio_EX">EXPERT</string>
+    <string name="setupRes_textView1">Please Choose a Difficulty Level</string>
+    <string name="setupRes_textView2">*The difficulty setting determines how quickly squares turn red</string>
+    <string name="setupRes_textView3">Please choose an initial grid size</string>
+    <string name="gameGridRes_scoreText">Score</string>
+    <string name="gameGrid_levelText">Level</string>
+</resources>

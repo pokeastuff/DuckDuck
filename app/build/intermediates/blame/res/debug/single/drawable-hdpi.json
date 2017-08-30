@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/build/intermediates/res/merged/debug/drawable-hdpi/green_square_pic_1_5.png",
+        "source": "/Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/res/drawable-hdpi/green_square_pic_1_5.png"
+    },
+    {
+        "merged": "/Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/build/intermediates/res/merged/debug/drawable-hdpi/red_square_pic_1_5.png",
+        "source": "/Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/res/drawable-hdpi/red_square_pic_1_5.png"
+    }
+]

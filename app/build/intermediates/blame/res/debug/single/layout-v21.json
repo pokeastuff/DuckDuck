@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DuckDuckV1_0</string>
+    <string name="setupRes_btn_play">PLAY</string>
+    <string name="setupRes_btn_radio_2X2">2X2</string>
+    <string name="setupRes_btn_radio_3X3">3X3</string>
+    <string name="setupRes_btn_radio_4X4">4X4</string>
+    <string name="setupRes_btn_radio_E">FACILE</string>
+    <string name="setupRes_btn_radio_M">MOYEN</string>
+    <string name="setupRes_btn_radio_H">DIFFICILE</string>
+    <string name="setupRes_btn_radio_EX">EXPERT</string>
+    <string name="setupRes_textView1">
+Choisissez un niveau de difficulté</string>
+    <string name="setupRes_textView2">*
+Le paramètre de difficulté détermine la rapidité avec laquelle les carrés sont devenus rouges</string>
+    <string name="setupRes_textView3">Choisissez une taille de grille initiale</string>
+</resources>

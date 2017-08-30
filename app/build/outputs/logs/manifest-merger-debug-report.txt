@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:2:1-46:12
+	package
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/593e50e6e3de37e1ba0282bf0c1d467993afbd40/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/28c199d9ec2337c443e952fe15d2fd216e68fa75/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/1aeba23663ecc32cf1ab956b2d17633d122dbbbb/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/cfb12f2acde12f0ea6c9aca4f6eee23660dc4da6/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/d51820564c64c43abf177fddec5fcd7e37c74cff/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/f85da94f5a23a348f14db8c886ee168c734ef764/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8142999b62c2821c3d42a4bd9f2662f009d862c1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/b80a42716cddfdd7446a65672170ee4496f7117c/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/austingreisman/.android/build-cache/3777cca8734915146e5da886cf92644ab8671681/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:7:9-38
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:6:9-35
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:10:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:11:22-77
+application
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:13:5-44:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/593e50e6e3de37e1ba0282bf0c1d467993afbd40/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/28c199d9ec2337c443e952fe15d2fd216e68fa75/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/1aeba23663ecc32cf1ab956b2d17633d122dbbbb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/cfb12f2acde12f0ea6c9aca4f6eee23660dc4da6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/d51820564c64c43abf177fddec5fcd7e37c74cff/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/f85da94f5a23a348f14db8c886ee168c734ef764/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8142999b62c2821c3d42a4bd9f2662f009d862c1/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/b80a42716cddfdd7446a65672170ee4496f7117c/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/austingreisman/.android/build-cache/3777cca8734915146e5da886cf92644ab8671681/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:16:9-41
+	android:supportsRtl
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:18:9-35
+	android:roundIcon
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:17:9-54
+	android:allowBackup
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:14:9-35
+	android:icon
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:15:9-43
+	android:theme
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:19:9-40
+activity#com.example.duckduckv1_0.Setup
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:20:9-26:20
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:20:19-40
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:24:27-74
+activity#com.example.duckduckv1_0.GameGrid
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:27:9-35:20
+	android:parentActivityName
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:29:13-48
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:28:13-37
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:32:13-34:42
+	android:value
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:34:17-39
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:33:17-63
+activity#com.example.duckduckv1_0.ErrorPage
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:36:9-42:20
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:36:19-44
+activity#com.example.duckduckv1_0.NextLevel
+ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:43:9-56
+	android:name
+		ADDED from /Users/austingreisman/AndroidStudioProjects/DuckDuckV1_0/app/src/main/AndroidManifest.xml:43:19-44
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/593e50e6e3de37e1ba0282bf0c1d467993afbd40/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/28c199d9ec2337c443e952fe15d2fd216e68fa75/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/1aeba23663ecc32cf1ab956b2d17633d122dbbbb/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/cfb12f2acde12f0ea6c9aca4f6eee23660dc4da6/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/d51820564c64c43abf177fddec5fcd7e37c74cff/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/f85da94f5a23a348f14db8c886ee168c734ef764/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8142999b62c2821c3d42a4bd9f2662f009d862c1/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/b80a42716cddfdd7446a65672170ee4496f7117c/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/austingreisman/.android/build-cache/8daf92b0dd38d5120e65db51a3c2d15d776868c2/output/AndroidManifest.xml:26:9-47
